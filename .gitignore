@@ -9,6 +9,9 @@
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
+/target
+/src
+/.idea
 
 # Package Files #
 *.jar
